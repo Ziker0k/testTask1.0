@@ -1,0 +1,25 @@
+2023-10-16 17:54:57.296 [main] INFO   - Server started
+2023-10-16 17:58:07.429 [main] INFO   - Server started
+2023-10-16 18:02:00.228 [main] INFO   - Server started
+2023-10-16 18:02:06.238 [main] INFO   - Server started
+2023-10-16 18:28:10.820 [main] INFO   - Server started
+2023-10-16 18:28:33.258 [Thread-2] INFO   - Client with name Max logged in
+2023-10-16 18:28:40.848 [Thread-2] INFO   - Topic with name Russia has been created
+2023-10-16 18:29:02.455 [Thread-2] INFO   - Vote President has been created in topic Russia
+2023-10-16 18:30:56.657 [Thread-0] INFO   - File topic.dat has been written
+2023-10-16 18:31:01.052 [Thread-0] INFO   - Server is turned off
+2023-10-16 18:31:39.705 [main] INFO   - Server started
+2023-10-16 18:34:12.388 [Thread-0] INFO   - File topic.dat has been rad
+2023-10-16 18:34:21.855 [Thread-2] INFO   - Client with name Pavel logged in
+2023-10-16 18:37:16.414 [Thread-2] INFO   - Client with name Pavel has logged out
+2023-10-16 18:37:50.233 [Thread-0] INFO   - Server is turned off
+2023-10-16 18:56:22.922 [main] INFO   - Server started
+2023-10-16 18:57:23.466 [main] INFO   - Server started
+2023-10-16 19:15:44.906 [Thread-2] INFO   - Client with name Max logged in
+2023-10-16 19:16:11.495 [Thread-4] INFO   - Client with name Grece logged in
+2023-10-16 19:16:25.825 [Thread-2] INFO   - Topic with name Russia has been created
+2023-10-16 19:17:17.366 [Thread-2] INFO   - Vote Badamtsss has been created in topic Russia
+2023-10-16 19:17:46.370 [Thread-4] INFO   - Vote USA has been created in topic Russia
+2023-10-16 19:18:05.274 [Thread-4] INFO   - Client with name Grece has logged out
+2023-10-16 19:18:08.361 [Thread-2] INFO   - Client with name Max has logged out
+2023-10-16 19:18:20.653 [Thread-0] INFO   - Server is turned off
